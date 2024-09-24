@@ -1,1 +1,1 @@
-# emotion-detection
+# Emotion Detection of Text
